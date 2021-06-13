@@ -1,4 +1,4 @@
-# vue-dice-game
+# dice-game
 
 > A Vue.js project
 
